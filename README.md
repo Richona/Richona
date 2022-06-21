@@ -1,5 +1,8 @@
 ### Hola soy Richard Cuevas 👋
 
+🛠 Skills
+HTML5 CSS3 JavaScript MySql
+
 <!--
 **Richona/Richona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
