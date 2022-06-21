@@ -1,9 +1,11 @@
 ### Hola soy Richard Cuevas 👋
 
-🛠 Skills
-![image](https://user-images.githubusercontent.com/105828822/174875747-47310c00-4292-49dd-8c9b-d56fa52c3c07.png)
-![image](https://user-images.githubusercontent.com/105828822/174875595-d5f681f6-45ed-4c73-ac67-00a866b67200.png)
-![image](https://user-images.githubusercontent.com/105828822/174875770-94b71664-0721-464b-b853-5adc5df24d75.png)
+## 🛠 Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+
 
 
 <!--
