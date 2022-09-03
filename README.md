@@ -5,9 +5,7 @@ I am student in full stack developer.
 
 ## 🛠 Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🔗 Links
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-sabbadini-0141a0218/)](https://www.linkedin.com/in/richard-cuevas-bb85bb237/)
